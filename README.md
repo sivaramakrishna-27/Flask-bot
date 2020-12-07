@@ -1,5 +1,5 @@
 # Webchat Bot corona(using flask)
-![Main image](https://theninehertz.com/wp-content/uploads/2018/03/chatbot-for-web-development.jpg)
+![Main image](https://th.bing.com/th/id/OIP.QycClca7xDILzMoFNDvZyAHaD4?w=331&h=180&c=7&o=5&dpr=1.25&pid=1.7)
 ## Our Team :-
  * Siva Rama Krishna ( 19pa1a05b7 )
  * Bharath ( 19pa1a0580 )
@@ -8,15 +8,6 @@
 ## Objective of our Bot
  * This is a Web ChatBot for covid website which helps in finding covid-19 statistics in world.
  * And responds user with the data present in API you can know statistics like number of people infected,number of people recovered...
-
-[![HTML image](https://github.com/abhishek-548/webbot/blob/main/html%20img.PNG?raw=true)](https://www.w3schools.com/html/)
-[![CSS image](https://raw.githubusercontent.com/abhishek-548/webbot/main/css%20img.PNG)](https://www.w3schools.com/css/)
-[![Js image](https://raw.githubusercontent.com/abhishek-548/webbot/main/js%20img.PNG)](https://www.w3schools.com/js/)
-
-## What is a web ChatBot?
- * A chatbot for website is a chatbot that lives on your website,that is programmed to do certain tasks.
- * Web Chatbots are automated,It interacts with your website's visitors, most commonly via a text interface.
- * Typically they do repetitive tasks,The purpose of a web chatbot on your website may vary,here providing covid-19 statistics.
 
 ## Description 
 
@@ -48,16 +39,8 @@ And to get covid-19 statistics  across world just click the world icon present i
 
 ## Repl Link :
 
-https://login.geraabhishek.repl.co
+https://flask-chatbot.siva27.repl.co
 
-
-## Output images :
-
-![Output1](https://github.com/abhishek-548/project/blob/main/output1.PNG?raw=true)
-
-![Output2](https://raw.githubusercontent.com/abhishek-548/project/main/output2.PNG)
-
-![Output3](https://raw.githubusercontent.com/abhishek-548/project/main/output3.PNG)
 
 ## Youtube Link :
 
