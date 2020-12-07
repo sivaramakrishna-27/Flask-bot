@@ -1,9 +1,9 @@
 # Webchat Bot corona(using flask)
 ![Main image](https://th.bing.com/th/id/OIP.QycClca7xDILzMoFNDvZyAHaD4?w=331&h=180&c=7&o=5&dpr=1.25&pid=1.7)
 ## Our Team :-
- * Siva Rama Krishna ( 19pa1a05b7 )
- * Bharath ( 19pa1a0580 )
- * Bhargav ram ( 19pa1a05a0 )
+ * Siva Rama Krishna ( 19PA1A05B7 )
+ * Bharath ( 19PA1A0580 )
+ * Bhargav ram ( 19PA1A05A0)
 
 ## Objective of our Bot
  * This is a Web ChatBot for covid website which helps in finding covid-19 statistics in world.
